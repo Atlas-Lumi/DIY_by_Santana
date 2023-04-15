@@ -5,8 +5,11 @@ This is a mod for The Long Dark by Hinterland Studio, Inc.
 - This mod adds some craftable furniture to the game. The list is on the [Wiki](https://github.com/stmSantana/DIY_by_Santana/wiki).<br>
 - You will need a new mod item **Nail box** to craft most wooden furniture. <br>
 
+### Update - V2.0
+- Updated to work with the latest version of TLD and ModComponent
+
 ### Update - v1.6
-- New: Color change of DIY objects. (Options -> Mod settings -> DIY settings)
+- ~~New: Color change of DIY objects. (Options -> Mod settings -> DIY settings)~~
 
 **Update - v1.5**
 - https://youtu.be/fM-PRTAJeqg
@@ -18,7 +21,7 @@ This is a mod for The Long Dark by Hinterland Studio, Inc.
 ### Nail box
 - NailBox can be **found** in lockers, etc., 
 - NailBox can be **forged** from scrap metal.
-- v1.3.0: When a player **breaks down** a wooden vanilla object (tables, chairs, etc.), you can get nails from it. (Prybar is not required)
+- ~~v1.3.0: When a player **breaks down** a wooden vanilla object (tables, chairs, etc.), you can get nails from it. (Prybar is not required)~~
 - v1.2.1: (by Add-on file) Nail box can be **crafted** from reclaim wood x5, require ToolBox. (The reclaim wood is disassembled and disappears to remove the nails.)
 
 <img src="https://github.com/stmSantana/DIY_by_Santana/blob/main/Images/DIY%20(1).jpg" width="90%"><br>
@@ -52,7 +55,7 @@ The item is fully integrated into the console and will appear in the auto-comple
 
 ## Installation
 * If you haven't done so already, install MelonLoader by downloading and running [MelonLoader.Installer.exe](https://github.com/HerpDerpinstine/MelonLoader/releases/latest/download/MelonLoader.Installer.exe)
-* Install the latest version of [ModComponent](https://github.com/ds5678/ModComponent) and its dependencies. (ModSettings, GearSpawner, LocalizationUtilities, CraftingRevisions)
+* Install the latest version of [ModComponent](https://github.com/dommrogers/ModComponent) and its dependencies. (ModSettings, GearSpawner, LocalizationUtilities, CraftingRevisions)
 * Install the latest version of [Placing Anywhere](https://github.com/Xpazeman/tld-placing-anywhere) .
 * Download latest version of `DiyBySantana.zip` from the [releases page](https://github.com/stmSantana/DIY_by_Santana/releases/latest).
 * Move a **.dll** file in the downloaded ZIP to the Mods folder.<br>
@@ -62,7 +65,7 @@ The item is fully integrated into the console and will appear in the auto-comple
 * **Note: Zip files should not be moved to the Mods folder!**
 
 ### Required mod
-* **Required :** [ModComponent](https://github.com/ds5678/ModComponent)
+* **Required :** [ModComponent](https://github.com/dommrogers/ModComponent)
 * **Required :** [Placing Anywhere](https://github.com/Xpazeman/tld-placing-anywhere)
 
 ### Recommended mods
