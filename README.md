@@ -1,6 +1,8 @@
 # DIY by Santana
 This is a mod for The Long Dark by Hinterland Studio, Inc.
 
+Created by stmSantana, updated by Atlas Lumi
+
 ## Description
 - This mod adds some craftable furniture to the game. The list is on the [Wiki](https://github.com/stmSantana/DIY_by_Santana/wiki).<br>
 - You will need a new mod item **Nail box** to craft most wooden furniture. <br>
