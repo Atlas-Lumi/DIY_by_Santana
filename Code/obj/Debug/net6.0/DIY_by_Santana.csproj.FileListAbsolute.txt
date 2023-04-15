@@ -1,0 +1,20 @@
+C:\Users\kitte\Desktop\DIY\obj\Debug\net6.0\DIY_by_Santana.csproj.AssemblyReference.cache
+C:\Users\kitte\Desktop\DIY\obj\Debug\net6.0\DIY_by_Santana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kitte\Desktop\DIY\obj\Debug\net6.0\DIY_by_Santana.csproj.CoreCompileInputs.cache
+C:\Users\kitte\Desktop\DIY\bin\Debug\net6.0\DIY_by_Santana.deps.json
+C:\Users\kitte\Desktop\DIY\bin\Debug\net6.0\DIY_by_Santana.dll
+C:\Users\kitte\Desktop\DIY\bin\Debug\net6.0\ModSettings.dll
+C:\Users\kitte\Desktop\DIY\obj\Debug\net6.0\DIY_by_Santana.csproj.CopyComplete
+C:\Users\kitte\Desktop\DIY\obj\Debug\net6.0\DIY_by_Santana.dll
+C:\Users\kitte\Desktop\DIY\obj\Debug\net6.0\refint\DIY_by_Santana.dll
+C:\Users\kitte\Desktop\DIY\obj\Debug\net6.0\ref\DIY_by_Santana.dll
+C:\Users\kitte\Desktop\TLD Mods\DiyBySantana\DIY\bin\Debug\net6.0\DIY_by_Santana.deps.json
+C:\Users\kitte\Desktop\TLD Mods\DiyBySantana\DIY\bin\Debug\net6.0\DIY_by_Santana.dll
+C:\Users\kitte\Desktop\TLD Mods\DiyBySantana\DIY\bin\Debug\net6.0\ModSettings.dll
+C:\Users\kitte\Desktop\TLD Mods\DiyBySantana\DIY\obj\Debug\net6.0\DIY_by_Santana.csproj.AssemblyReference.cache
+C:\Users\kitte\Desktop\TLD Mods\DiyBySantana\DIY\obj\Debug\net6.0\DIY_by_Santana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kitte\Desktop\TLD Mods\DiyBySantana\DIY\obj\Debug\net6.0\DIY_by_Santana.csproj.CoreCompileInputs.cache
+C:\Users\kitte\Desktop\TLD Mods\DiyBySantana\DIY\obj\Debug\net6.0\DIY_by_Santana.csproj.CopyComplete
+C:\Users\kitte\Desktop\TLD Mods\DiyBySantana\DIY\obj\Debug\net6.0\DIY_by_Santana.dll
+C:\Users\kitte\Desktop\TLD Mods\DiyBySantana\DIY\obj\Debug\net6.0\refint\DIY_by_Santana.dll
+C:\Users\kitte\Desktop\TLD Mods\DiyBySantana\DIY\obj\Debug\net6.0\ref\DIY_by_Santana.dll
