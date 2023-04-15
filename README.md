@@ -4,7 +4,7 @@ This is a mod for The Long Dark by Hinterland Studio, Inc.
 Created by stmSantana, updated by Atlas Lumi
 
 ## Important
-- Breaking down wood items to get nails no longer works. You can make nails with 5 pieces of reclaimed woodd instead.
+- Breaking down wood items to get nails no longer works. You can make nails with 5 pieces of reclaimed wood instead.
 - Changing the color of furniture no longer works.
 
 ## Description
