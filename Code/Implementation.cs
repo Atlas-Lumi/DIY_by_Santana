@@ -2,6 +2,7 @@
 using Il2Cpp;
 using MelonLoader;
 using UnityEngine;
+using UnityEngine.AddressableAssets;
 
 namespace DiyBySantana;
 internal class Implementation : MelonMod
@@ -18,20 +19,18 @@ internal class Implementation : MelonMod
             DiyChangeColor.ChangeWood("Furniture");
             DiyChangeColor.ChangeWood("Tableware");
             */
+
             ChangeLayerOfGear.DiyChangeLayerNum();
         }
 
     }
 
 
-// Not working
-
 //---------------------------------------------------------------------------------------
 // Break Down
 // Add nail box if Yield has Reclaimed Wood.
 //---------------------------------------------------------------------------------------
 
-/*
 [HarmonyPatch(typeof(BreakDown), "DoBreakDown")]
 internal class BreakDownGetNail
 {
@@ -43,7 +42,7 @@ internal class BreakDownGetNail
         int DiyArrayLenght = __instance.m_YieldObject.Length;
 
         string DiyAddedYield = "GEAR_DiyANailBoxC";
-        GameObject DiyAddedYieldObj = Resources.Load(DiyAddedYield).TryCast<GameObject>();
+        GameObject DiyAddedYieldObj = Addressables.LoadAsset<GameObject>(DiyAddedYield).WaitForCompletion();
         GearItem DiyAddedYieldGearItem = DiyAddedYieldObj.GetComponent<GearItem>();
         int DiyAddedYieldObjUnit = 1;
 
@@ -84,4 +83,3 @@ internal class BreakDownGetNail
 
     }
 }
-*/
