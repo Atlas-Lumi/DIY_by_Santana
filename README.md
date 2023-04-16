@@ -4,7 +4,6 @@ This is a mod for The Long Dark by Hinterland Studio, Inc.
 Created by stmSantana, updated by Atlas Lumi
 
 ## Important
-- Breaking down wood items to get nails no longer works. You can make nails with 5 pieces of reclaimed wood instead.
 - Changing the color of furniture no longer works.
 
 ## Description
@@ -27,7 +26,7 @@ Created by stmSantana, updated by Atlas Lumi
 ### Nail box
 - NailBox can be **found** in lockers, etc., 
 - NailBox can be **forged** from scrap metal.
-- ~~v1.3.0: When a player **breaks down** a wooden vanilla object (tables, chairs, etc.), you can get nails from it. (Prybar is not required)~~
+- v1.3.0: When a player **breaks down** a wooden vanilla object (tables, chairs, etc.), you can get nails from it. (Prybar is not required)
 - v1.2.1: (by Add-on file) Nail box can be **crafted** from reclaim wood x5, require ToolBox. (The reclaim wood is disassembled and disappears to remove the nails.)
 
 <img src="https://github.com/stmSantana/DIY_by_Santana/blob/main/Images/DIY%20(1).jpg" width="90%"><br>
