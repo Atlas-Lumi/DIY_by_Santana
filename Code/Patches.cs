@@ -230,7 +230,44 @@ namespace DiyBySantana
             }
 
         }
+
+        // ------------------------------------------------------------------------------------------------------------
+        // Working gun racks
+        //------------------------------------------------------------------------------------------------------------
+
+        [HarmonyPatch(typeof(GearItem), "Awake")]
+        internal class AddingPlacePointsToGunRack
+        {
+            private static void Postfix(GearItem __instance)
+            {
+                if (!__instance.gameObject.name.Contains("GEAR_DiyGunRackA")) return;
+
+                if (__instance.gameObject.GetComponentInChildren<GearPlacePoint>()) return;
+
+                GameObject gearPlacePoint = new GameObject();
+                gearPlacePoint.name = "GearPlacePoint";
+                gearPlacePoint.transform.parent = __instance.gameObject.transform;
+                gearPlacePoint.transform.localPosition = new Vector3(0f, 0.04f, -0.085f);
+                gearPlacePoint.transform.Rotate(new Vector3(354.8378f, 269.559f, 359.3606f));
+                gearPlacePoint.transform.localScale = new Vector3(1f, 1f, 1f);
+
+                GameObject collider = new GameObject();
+                collider.name = "Collider";
+
+                BoxCollider box = collider.AddComponent<BoxCollider>();
+                collider.transform.parent = gearPlacePoint.transform;
+                box.size = new Vector3(0.5f, 0.5f, 0.5f);
+                collider.active = false;
+
+                GearPlacePoint placePoint = gearPlacePoint.AddComponent<GearPlacePoint>();
+                placePoint.m_AuthorizedGearPrefabs = new Il2CppSystem.Collections.Generic.List<GearItem>();
+                placePoint.m_AuthorizedGearPrefabs.Add(GearItem.LoadGearItemPrefab("GEAR_Rifle"));
+                placePoint.m_AuthorizedGearPrefabs.Add(GearItem.LoadGearItemPrefab("GEAR_Rifle_Barbs"));
+                placePoint.m_AuthorizedGearPrefabs.Add(GearItem.LoadGearItemPrefab("GEAR_Rifle_Curators"));
+                placePoint.m_AuthorizedGearPrefabs.Add(GearItem.LoadGearItemPrefab("GEAR_Rifle_Vaughns"));
+                placePoint.m_ColliderObject = collider;
+
+            }
+        }
     }
-
-
 }
