@@ -1,7 +1,7 @@
 # DIY by Santana
 This is a mod for The Long Dark by Hinterland Studio, Inc.
 
-Created by stmSantana, updated by Atlas Lumi
+Created by stmSantana, updated by Atlas Lumi and Digitalzombie
 
 ## Important
 - Changing the color of furniture no longer works.
