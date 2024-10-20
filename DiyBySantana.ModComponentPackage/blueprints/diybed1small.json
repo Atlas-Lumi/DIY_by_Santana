@@ -1,0 +1,17 @@
+{
+    "Name": "GEAR_DiyBed1Small",
+	"RequiredGear":[{"Item":"GEAR_DiyBed0SmallF","Count":1},{"Item":"GEAR_DiyBed0SmallM","Count":1},{"Item":"GEAR_DiyBed0SmallP","Count":1}],
+    "KeroseneLitersRequired": 0.0,
+    "GunpowderKGRequired": 0.0,
+    "RequiredTool": "",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_DiyBed1Small",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 2,
+    "CraftingAudio": "Play_CraftingCloth",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

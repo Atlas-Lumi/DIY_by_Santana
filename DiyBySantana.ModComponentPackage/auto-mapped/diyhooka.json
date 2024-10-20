@@ -1,0 +1,32 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_DiyHookA",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_DiyHookADescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 0.2,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Auto",
+                                "PickUpAudio" : "Play_SndInvMetalSmall",
+                                "PutBackAudio" : "Play_SndInvMetalSmall",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 0.5,
+                                "InspectAngles" : [0, 0, -40],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            },
+                            
+    "ModHarvestableBehaviour": {
+                                "Audio" : "Play_CraftingForge",
+                                "Minutes" : 30,
+                                "YieldCounts" : [1],
+                                "YieldNames" : ["GEAR_ScrapMetal"],
+                                "RequiredToolNames" : ["GEAR_Hammer"]
+                            }
+
+}

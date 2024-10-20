@@ -1,0 +1,31 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_DiyABoard4x2",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_DiyABoard4x2Description",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 2.0,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Auto",
+                                "PickUpAudio" : "Play_SndInvWoodFirewood",
+                                "PutBackAudio" : "Play_SndInvWoodFirewood",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 6,
+                                "InspectAngles" : [0, 0, 0],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            },
+                            
+    "ModHarvestableBehaviour": {
+                                "Audio" : "Play_HarvestingWoodReclaimed",
+                                "Minutes" : 30,
+                                "YieldCounts" : [16],
+                                "YieldNames" : ["GEAR_Softwood"],
+                                "RequiredToolNames" : []
+                            }
+}

@@ -1,0 +1,17 @@
+{
+    "Name": "GEAR_DiyCofTableA",
+	"RequiredGear":[{"Item":"GEAR_Softwood","Count":20},{"Item":"GEAR_DiyANailBoxC","Count":2}],
+    "KeroseneLitersRequired": 0.0,
+    "GunpowderKGRequired": 0.0,
+    "RequiredTool": "GEAR_SimpleTools",
+    "OptionalTools": ["GEAR_HighQualityTools"],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_DiyCofTableA",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 300,
+    "CraftingAudio": "Play_CraftingWood",
+    "AppliedSkill" : "ToolRepair",
+    "ImprovedSkill" : "ToolRepair"
+}

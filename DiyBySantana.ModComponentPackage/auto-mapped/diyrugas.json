@@ -1,0 +1,32 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_DiyRugAs",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_DiyRugAsDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 2.0,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Auto",
+                                "PickUpAudio" : "Play_SndInvClothStiff",
+                                "PutBackAudio" : "Play_SndInvClothStiff",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 3.0,
+                                "InspectAngles" : [0, 0, 0],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            },
+
+    "ModHarvestableBehaviour": {
+                                "Audio" : "Play_HarvestingCloth",
+                                "Minutes" : 15,
+                                "YieldCounts" : [7],
+                                "YieldNames" : ["GEAR_Cloth"],
+                                "RequiredToolNames" : []
+                            }
+
+}

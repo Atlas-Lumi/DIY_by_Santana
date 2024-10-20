@@ -1,0 +1,32 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_DiyChusionB",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_DiyChusionBDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 0.3,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Auto",
+                                "PickUpAudio" : "Play_SndInvClothSoft",
+                                "PutBackAudio" : "Play_SndInvClothSoft",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 1.0,
+                                "InspectAngles" : [0, 0, 0],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            },
+                            
+    "ModHarvestableBehaviour": {
+                                "Audio" : "Play_HarvestingCloth",
+                                "Minutes" : 10,
+                                "YieldCounts" : [1,4],
+                                "YieldNames" :  ["GEAR_Cloth","GEAR_CattailTinder"],
+                                "RequiredToolNames" : []
+                            }
+                            
+}

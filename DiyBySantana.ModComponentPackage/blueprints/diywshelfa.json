@@ -1,0 +1,18 @@
+{
+    "Name": "GEAR_DiyWShelfA",
+    "RequiredGear":[{"Item":"GEAR_Softwood","Count":16},{"Item":"GEAR_DiyANailBoxC","Count":1}],
+    "KeroseneLitersRequired": 0.0,
+    "GunpowderKGRequired": 0.0,
+    "RequiredTool": "GEAR_SimpleTools",
+    "OptionalTools": ["GEAR_HighQualityTools"],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_DiyWShelfA",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 60,
+    "CraftingAudio": "Play_CraftingWood",
+    "AppliedSkill" : "ToolRepair",
+    "ImprovedSkill" : "ToolRepair"
+}
+
