@@ -1,0 +1,281 @@
+{
+
+    "GAMEPLAY_DiyABoard2x1": {
+        "English": "z:DIY: Thin Board 2x1"
+    },
+    "GAMEPLAY_DiyABoard2x1Description": {
+        "English": "A thin board about 2*1 meters. DLL is required."
+    },
+    
+    "GAMEPLAY_DiyABoard6x1": {
+        "English": "z:DIY: Thin Board 6x1"
+    },
+    "GAMEPLAY_DiyABoard6x1Description": {
+        "English": "A thin board about 6*1 meters. DLL is required."
+    },
+    
+    "GAMEPLAY_DiyABoard4x2": {
+        "English": "z:DIY: Thin Board 4x2"
+    },
+    "GAMEPLAY_DiyABoard4x2Description": {
+        "English": "A thin board about 4*2 meters. DLL is required."
+    },
+    
+    
+    "GAMEPLAY_DiyANailBoxC": {
+        "English": "z:DIY: Wrought nail"
+    },
+    "GAMEPLAY_DiyANailBoxCDescription": {
+        "English": "A box containing wrought nails. Wrought nails, die-forged and cut nails usually need a pilot hole, otherwise you might split the top board, especially when you are nailing near the end of a board."
+    },
+
+
+
+    "GAMEPLAY_DiyBed0Pillow": {
+        "English": "z:DIY: King bed Pillow"
+    },
+    "GAMEPLAY_DiyBed0PillowDescription": {
+        "English": "A Pillow. Materials for crafting beds."
+    },
+
+    "GAMEPLAY_DiyBed0KingF": {
+        "English": "z:DIY: King bed frame"
+    },
+    "GAMEPLAY_DiyBed0KingFDescription": {
+        "English": "A King bed frame. Materials for crafting beds."
+    },
+
+    "GAMEPLAY_DiyBed0KingM": {
+        "English": "z:DIY: King bed mattress"
+    },
+    "GAMEPLAY_DiyBed0KingMDescription": {
+        "English": "A King bed mattress. Materials for crafting beds."
+    },
+
+
+    "GAMEPLAY_DiyBed0SmallP": {
+        "English": "z:DIY: Small pillow"
+    },
+    "GAMEPLAY_DiyBed0SmallPDescription": {
+        "English": "A small pillow. Materials for crafting beds."
+    },
+
+    "GAMEPLAY_DiyBed0SmallF": {
+        "English": "z:DIY: Small bed frame"
+    },
+    "GAMEPLAY_DiyBed0SmallFDescription": {
+        "English": "A small bed frame. Materials for crafting beds."
+    },
+
+    "GAMEPLAY_DiyBed0SmallM": {
+        "English": "z:DIY: Small bed mattress"
+    },
+    "GAMEPLAY_DiyBed0SmallMDescription": {
+        "English": "A small bed mattress. Materials for crafting beds."
+    },
+
+
+
+    "GAMEPLAY_DiyBed1King": {
+        "English": "z:DIY: King Bed"
+    },
+    "GAMEPLAY_DiyBed1KingDescription": {
+        "English": "A King Bed. It can be used to sleep."
+    },
+
+    "GAMEPLAY_DiyBed1Small": {
+        "English": "z:DIY: Small Bed"
+    },
+    "GAMEPLAY_DiyBed1SmallDescription": {
+        "English": "A Small Bed. It can be used to sleep."
+    },
+
+
+
+
+    "GAMEPLAY_DiyCratesB": {
+        "English": "z:DIY: Crate B"
+    },
+    "GAMEPLAY_DiyCratesBDescription": {
+        "English": "A small crate."
+    },
+
+    "GAMEPLAY_DiyRugAs": {
+        "English": "z:DIY: Rug A"
+    },
+    "GAMEPLAY_DiyRugAsDescription": {
+        "English": "A small rug."
+    },
+    
+    "GAMEPLAY_DiyRugDpaw": {
+        "English": "z:DIY: Rug D"
+    },
+    "GAMEPLAY_DiyRugDpawDescription": {
+        "English": "A rug about 1.5 x 2.5 meters. "
+    },
+    
+    "GAMEPLAY_DiyRugHb": {
+        "English": "z:DIY: Rug H"
+    },
+    "GAMEPLAY_DiyRugHbDescription": {
+        "English": "A square rug about 2 meters wide. "
+    },
+    
+    "GAMEPLAY_DiyRugMr": {
+        "English": "z:DIY: Rug M"
+    },
+    "GAMEPLAY_DiyRugMrDescription": {
+        "English": "A square rug about 2 meters wide. "
+    },
+    
+    "GAMEPLAY_DiyChusionA": {
+        "English": "z:DIY: Cushion A"
+    },
+    "GAMEPLAY_DiyChusionADescription": {
+        "English": "A handmade cushion filled with cat tail head instead of cotton. "
+    },
+    
+    "GAMEPLAY_DiyChusionB": {
+        "English": "z:DIY: Cushion B"
+    },
+    "GAMEPLAY_DiyChusionBDescription": {
+        "English": "A small handmade cushion filled with cat tail head instead of cotton."
+    },
+
+    "GAMEPLAY_DiyHookA": {
+        "English": "z:DIY: Wall Hook A"
+    },
+    "GAMEPLAY_DiyHookADescription": {
+        "English": "A Wall hook."
+    },
+    
+    "GAMEPLAY_DiyGunRackA": {
+        "English": "z:DIY: Gun Rack A"
+    },
+    "GAMEPLAY_DiyGunRackADescription": {
+        "English": "A Gun Rack. You need nails to make it."
+    },
+
+    "GAMEPLAY_DiyWShelfA": {
+        "English": "z:DIY: Wood Shelf A"
+    },
+    "GAMEPLAY_DiyWShelfADescription": {
+        "English": "A wood shelf 3 levels. You need nails to make it."
+    },
+    
+    "GAMEPLAY_DiyWallShelfA": {
+        "English": "z:DIY: Wall Shelf A"
+    },
+    "GAMEPLAY_DiyWallShelfADescription": {
+        "English": "A wall Shelf. You need nails to make it."
+    },
+
+    "GAMEPLAY_DiyWChairA": {
+        "English": "z:DIY: Wood Chair A"
+    },
+    "GAMEPLAY_DiyWChairADescription": {
+        "English": "A wood Chair. You need nails to make it."
+    },
+    
+    "GAMEPLAY_DiyWChairB": {
+        "English": "z:DIY: Wood Chair B"
+    },
+    "GAMEPLAY_DiyWChairBDescription": {
+        "English": "A small wood Chair. You need nails to make it."
+    },
+
+    "GAMEPLAY_DiyWStoolA": {
+        "English": "z:DIY: Wood Stool A"
+    },
+    "GAMEPLAY_DiyWStoolADescription": {
+        "English": "A wood stool. You need nails to make it."
+    },
+    
+    "GAMEPLAY_DiyCofTableA": {
+        "English": "z:DIY: Coffe Table A"
+    },
+    "GAMEPLAY_DiyCofTableADescription": {
+        "English": "A coffe table. You need nails to make it."
+    },
+    
+    "GAMEPLAY_DiyDRTableB": {
+        "English": "z:DIY: Dining Room Table B"
+    },
+    "GAMEPLAY_DiyDRTableBDescription": {
+        "English": "A Dining Room Table. You need nails to make it."
+    },
+
+
+
+    "GAMEPLAY_DiyTwCupA": {
+        "English": "z:DIY: TW Cup A"
+    },
+    "GAMEPLAY_DiyTwCupADescription": {
+        "English": "A Tableware Cup"
+    },
+
+    "GAMEPLAY_DiyTwCuttingBoardA": {
+        "English": "z:DIY: TW Cutting Board A"
+    },
+    "GAMEPLAY_DiyTwCuttingBoardADescription": {
+        "English": "A Tableware Cutting Board"
+    },
+
+    "GAMEPLAY_DiyTwDishBL": {
+        "English": "z:DIY: TW Dish BL"
+    },
+    "GAMEPLAY_DiyTwDishBLDescription": {
+        "English": "A Tableware Dish"
+    },
+
+    "GAMEPLAY_DiyTWDishBO": {
+        "English": "z:DIY: TW Dish BO"
+    },
+    "GAMEPLAY_DiyTWDishBODescription": {
+        "English": "A Tableware Dish"
+    },
+
+    "GAMEPLAY_DiyTwDishBowlA": {
+        "English": "z:DIY: TW DishBowl A"
+    },
+    "GAMEPLAY_DiyTwDishBowlADescription": {
+        "English": "A Tableware DishBowl"
+    },
+
+    "GAMEPLAY_DiyTwDishBowlB": {
+       "English": "z:DIY: TW DishBowl B"
+    },
+    "GAMEPLAY_DiyTwDishBowlBDescription": {
+        "English": "A Tableware DishBowl"
+    },
+
+    "GAMEPLAY_DiyTwDishPlateA": {
+        "English": "z:DIY: TW DishPlate A"
+    },
+    "GAMEPLAY_DiyTwDishPlateADescription": {
+        "English": "A Tableware DishPlate"
+    },
+
+    "GAMEPLAY_DiyTwFork": {
+        "English": "z:DIY: TW Fork"
+    },
+    "GAMEPLAY_DiyTwForkDescription": {
+        "English": "A Tableware Fork"
+    },
+
+    "GAMEPLAY_DiyTwSpatulaSpoon": {
+        "English": "z:DIY: TW SpatulaSpoon"
+    },
+    "GAMEPLAY_DiyTwSpatulaSpoonDescription": {
+        "English": "A Tableware SpatulaSpoon"
+    },
+
+    "GAMEPLAY_DiyTwSpoon": {
+        "English": "z:DIY: TW Spoon"
+    },
+    "GAMEPLAY_DiyTwSpoonDescription": {
+        "English": "A Tableware Spoon"
+    }
+
+
+}

@@ -1,0 +1,17 @@
+{
+    "Name": "GEAR_DiyBed0SmallM",
+	"RequiredGear":[{"Item":"GEAR_Cloth","Count":8},{"Item":"GEAR_CrowFeather","Count":10},{"Item":"GEAR_GutDried","Count":5}],
+    "KeroseneLitersRequired": 0.0,
+    "GunpowderKGRequired": 0.0,
+    "RequiredTool": "GEAR_SewingKit",
+    "OptionalTools": ["GEAR_HookAndLine"],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_DiyBed0SmallM",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 100,
+    "CraftingAudio": "Play_CraftingCloth",
+    "AppliedSkill" : "ClothingRepair",
+    "ImprovedSkill" : "ClothingRepair"
+}

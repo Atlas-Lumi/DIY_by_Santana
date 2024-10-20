@@ -1,0 +1,17 @@
+{
+    "Name": "GEAR_DiyBed0SmallF",
+    "RequiredGear":[{"Item":"GEAR_Softwood","Count":15},{"Item":"GEAR_Hardwood","Count":5},{"Item":"GEAR_DiyANailBoxC","Count":3}],
+    "KeroseneLitersRequired": 0.0,
+    "GunpowderKGRequired": 0.0,
+    "RequiredTool": "GEAR_SimpleTools",
+    "OptionalTools": ["GEAR_HighQualityTools"],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_DiyBed0SmallF",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 360,
+    "CraftingAudio": "Play_CraftingWood",
+    "AppliedSkill" : "ToolRepair",
+    "ImprovedSkill" : "ToolRepair"
+}

@@ -1,0 +1,32 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_DiyBed0KingF",
+                                "DescriptionLocalizatonId"  : "GAMEPLAY_DiyBed0KingFDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 21.2,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Material",
+                                "PickUpAudio" : "Play_SndInvClothStiff",
+                                "PutBackAudio" : "Play_SndInvClothStiff",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 4.0,
+                                "InspectAngles" : [0, 0, 0],
+                                "InspectOffset" : [0, -0.5, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel"  : "",
+                                "InspectModel" : ""
+                            },
+
+    "ModHarvestableBehaviour": {
+                                "Audio" : "Play_HarvestingCloth",
+                                "Minutes" : 60,
+                                "YieldCounts" : [20,10,6],
+                                "YieldNames" : ["GEAR_Softwood","GEAR_Hardwood","GEAR_DiyANailBoxC"],
+                                "RequiredToolNames" : []
+                            }
+
+}

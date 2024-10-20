@@ -1,0 +1,39 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_DiyANailBoxC",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_DiyANailBoxCDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 0.2,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Auto",
+                                "PickUpAudio" : "Play_SndInvMetalMedium",
+                                "PutBackAudio" : "Play_SndInvMetalMedium",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 0.50,
+                                "InspectAngles" : [0, 0, 0],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "DiyNailBoxa",
+                                "InspectModel" : "DiyNailBoxb"
+                            },
+
+    "ModHarvestableBehaviour": {
+                                "Audio" : "Play_CraftingForge",
+                                "Minutes" : 60,
+                                "YieldCounts" : [1],
+                                "YieldNames" : ["GEAR_ScrapMetal"],
+                                "RequiredToolNames" : ["GEAR_Hammer"]
+                            },
+
+    "ModStackableBehaviour": {
+                                "SingleUnitTextId" : "GAMEPLAY_DiyANailBoxC",
+                                "MultipleUnitTextId" : "GAMEPLAY_DiyANailBoxCDescription",
+                                "StackSprite" : "",
+                                "UnitsPerItem" : 1,
+                                "ChanceFull" : 100
+                             }
+}

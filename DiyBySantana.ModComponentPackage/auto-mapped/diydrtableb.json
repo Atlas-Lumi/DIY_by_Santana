@@ -1,0 +1,31 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_DiyDRTableB",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_DiyDRTableBDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 12.5,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Auto",
+                                "PickUpAudio" : "Play_SndInvWoodFirewood",
+                                "PutBackAudio" : "Play_SndInvWoodFirewood",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 3.0,
+                                "InspectAngles" : [0, 0, 0],
+                                "InspectOffset" : [0, -0.5, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            },
+                            
+    "ModHarvestableBehaviour": {
+                                "Audio" : "Play_HarvestingWoodReclaimed",
+                                "Minutes" : 120,
+                                "YieldCounts" : [25,2],
+                                "YieldNames" : ["GEAR_Softwood","GEAR_DiyANailBoxC"],
+                                "RequiredToolNames" : ["GEAR_Hatchet","GEAR_HatchetImprovised","GEAR_Hammer"]
+                            }
+}

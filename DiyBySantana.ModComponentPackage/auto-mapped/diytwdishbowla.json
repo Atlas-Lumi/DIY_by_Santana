@@ -1,0 +1,31 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_DiyTwDishBowlA",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_DiyTwDishBowlADescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 0.25,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Auto",
+                                "PickUpAudio" : "Play_SndInvWoodFirewood",
+                                "PutBackAudio" : "Play_SndInvWoodFirewood",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 1.0,
+                                "InspectAngles" : [0, 0, 0],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            },
+                            
+    "ModHarvestableBehaviour": {
+                                "Audio" : "Play_HarvestingWoodReclaimed",
+                                "Minutes" : 5,
+                                "YieldCounts" : [3],
+                                "YieldNames" : ["GEAR_Tinder"],
+                                "RequiredToolNames" : []
+                            }
+}

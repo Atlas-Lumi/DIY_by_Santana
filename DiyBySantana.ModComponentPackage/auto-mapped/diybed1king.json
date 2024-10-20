@@ -1,0 +1,43 @@
+{
+    "ModBedComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_DiyBed1King",
+                                "DescriptionLocalizatonId"  : "GAMEPLAY_DiyBed1KingDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 23.95,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Tool",
+                                "PickUpAudio" : "Play_SndInvClothStiff",
+                                "PutBackAudio" : "Play_SndInvClothStiff",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 4.0,
+                                "InspectAngles" : [0, 0, 0],
+                                "InspectOffset" : [0, -0.5, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel"  : "Bed1Kinga",
+                                "InspectModel" : "Bed1Kingb",
+                                
+                                "ConditionGainPerHour" : 1,
+                                "AdditionalConditionGainPerHour" : 1,
+                                "WarmthBonusCelsius" : 8,
+                                "DegradePerHour" : 0,
+                                "BearAttackModifier" : 0,
+                                "WolfAttackModifier" : 0,
+                                "OpenAudio"  : "Play_ClothingOnOff",
+                                "CloseAudio" : "Play_ClothingOnOff",
+                                "PackedMesh" : "Bed1Kinga",
+                                "UsableMesh" : "Bed1Kingb"
+                            },
+
+    "ModHarvestableBehaviour": {
+                                "Audio" : "Play_HarvestingCloth",
+                                "Minutes" : 2,
+                                "YieldCounts" : [1,1,2],
+                                "YieldNames" : ["GEAR_DiyBed0KingF","GEAR_DiyBed0KingM","GEAR_DiyBed0Pillow"],
+                                "RequiredToolNames" : []
+                            }
+
+}
