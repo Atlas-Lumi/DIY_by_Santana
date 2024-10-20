@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "W:\\Unity\\repos\\TLD\\DIY\\Code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B59BFE-ABA7-4ECE-9EDD-CA8A2BE11621}|DiyBySantana.csproj|w:\\unity\\repos\\tld\\diy\\code\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1B59BFE-ABA7-4ECE-9EDD-CA8A2BE11621}|DiyBySantana.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B59BFE-ABA7-4ECE-9EDD-CA8A2BE11621}|DIY_by_Santana.csproj|w:\\unity\\repos\\tld\\diy\\code\\implementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1B59BFE-ABA7-4ECE-9EDD-CA8A2BE11621}|DIY_by_Santana.csproj|solutionrelative:implementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B59BFE-ABA7-4ECE-9EDD-CA8A2BE11621}|DiyBySantana.csproj|w:\\unity\\repos\\tld\\diy\\code\\diybysantana.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D1B59BFE-ABA7-4ECE-9EDD-CA8A2BE11621}|DiyBySantana.csproj|solutionrelative:diybysantana.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B59BFE-ABA7-4ECE-9EDD-CA8A2BE11621}|DIY_by_Santana.csproj|w:\\unity\\repos\\tld\\diy\\code\\patches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1B59BFE-ABA7-4ECE-9EDD-CA8A2BE11621}|DIY_by_Santana.csproj|solutionrelative:patches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DiyBySantana.csproj",
+              "DocumentMoniker": "W:\\Unity\\repos\\TLD\\DIY\\Code\\DiyBySantana.csproj",
+              "RelativeDocumentMoniker": "DiyBySantana.csproj",
+              "ToolTip": "W:\\Unity\\repos\\TLD\\DIY\\Code\\DiyBySantana.csproj",
+              "RelativeToolTip": "DiyBySantana.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-20T12:19:50.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "W:\\Unity\\repos\\TLD\\DIY\\Code\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "W:\\Unity\\repos\\TLD\\DIY\\Code\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T12:20:23.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Implementation.cs",
+              "DocumentMoniker": "W:\\Unity\\repos\\TLD\\DIY\\Code\\Implementation.cs",
+              "RelativeDocumentMoniker": "Implementation.cs",
+              "ToolTip": "W:\\Unity\\repos\\TLD\\DIY\\Code\\Implementation.cs",
+              "RelativeToolTip": "Implementation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T06:10:24.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Patches.cs",
+              "DocumentMoniker": "W:\\Unity\\repos\\TLD\\DIY\\Code\\Patches.cs",
+              "RelativeDocumentMoniker": "Patches.cs",
+              "ToolTip": "W:\\Unity\\repos\\TLD\\DIY\\Code\\Patches.cs",
+              "RelativeToolTip": "Patches.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T06:10:22.784Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

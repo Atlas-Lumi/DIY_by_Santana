@@ -33,7 +33,8 @@
 	</ItemGroup>
 	<ItemGroup>
 	  <Reference Include="ModSettings">
-	    <HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\TheLongDark\Mods\ModSettings.dll</HintPath>
+	    <HintPath>W:\Steam\steamapps\common\TheLongDark\Mods\ModSettings.dll</HintPath>
+	    <Private>False</Private>
 	  </Reference>
 	</ItemGroup>
 </Project>
