@@ -1,280 +1,356 @@
 {
 
     "GAMEPLAY_DiyABoard2x1": {
-        "English": "z:DIY: Thin Board 2x1"
+        "English": "z:DIY: Thin Board 2x1",
+        "Turkish": "z:DIY: İnce Tahta 2x1"
     },
     "GAMEPLAY_DiyABoard2x1Description": {
-        "English": "A thin board about 2*1 meters. DLL is required."
+        "English": "A thin board about 2*1 meters. DLL is required.",
+        "Turkish": "2 metreye 1 metre ebatında ince tahta. DLL gerekli."
     },
     
     "GAMEPLAY_DiyABoard6x1": {
-        "English": "z:DIY: Thin Board 6x1"
+        "English": "z:DIY: Thin Board 6x1",
+        "Turkish": "z:DIY: İnce Tahta 6x1"
     },
     "GAMEPLAY_DiyABoard6x1Description": {
-        "English": "A thin board about 6*1 meters. DLL is required."
+        "English": "A thin board about 6*1 meters. DLL is required.",
+        "Turkish": "6 metreye 1 metre ebatında ince tahta. DLL gerekli."
     },
     
     "GAMEPLAY_DiyABoard4x2": {
-        "English": "z:DIY: Thin Board 4x2"
+        "English": "z:DIY: Thin Board 4x2",
+        "Turkish": "z:DIY: İnce Tahta 4x2"
     },
     "GAMEPLAY_DiyABoard4x2Description": {
-        "English": "A thin board about 4*2 meters. DLL is required."
+        "English": "A thin board about 4*2 meters. DLL is required.",
+        "Turkish": "4 metreye 2 metre ebatında ince tahta. DLL gerekli."
     },
     
     
     "GAMEPLAY_DiyANailBoxC": {
-        "English": "z:DIY: Wrought nail"
+        "English": "z:DIY: Wrought nail",
+        "Turkish": "z:DIY: El yapımı çivi"
     },
     "GAMEPLAY_DiyANailBoxCDescription": {
-        "English": "A box containing wrought nails. Wrought nails, die-forged and cut nails usually need a pilot hole, otherwise you might split the top board, especially when you are nailing near the end of a board."
+        "English": "A box containing wrought nails. Wrought nails, die-forged and cut nails usually need a pilot hole, otherwise you might split the top board, especially when you are nailing near the end of a board.",
+        "Turkish": "El yapımı çivi içeren bir kutu. El yapımı çiviler genellikle bir pilot deliğe ihtiyaç duyar, özellikle bir tahtanın ucuna yakın bir yere çivi çakarken, üst levhayı ayırabilirsiniz."
     },
 
 
 
     "GAMEPLAY_DiyBed0Pillow": {
-        "English": "z:DIY: King bed Pillow"
+        "English": "z:DIY: King bed Pillow",
+        "Turkish": "z:DIY: Büyük boy yatak yastığı"
     },
     "GAMEPLAY_DiyBed0PillowDescription": {
-        "English": "A Pillow. Materials for crafting beds."
+        "English": "A Pillow. Materials for crafting beds.",
+        "Turkish": "Bir Yastık. Tamamlanmış yatak yapmanın bir parçası."
     },
 
     "GAMEPLAY_DiyBed0KingF": {
-        "English": "z:DIY: King bed frame"
+        "English": "z:DIY: King bed frame",
+        "Turkish": "z:DIY: Büyük boy yatak somyası"
     },
     "GAMEPLAY_DiyBed0KingFDescription": {
-        "English": "A King bed frame. Materials for crafting beds."
+        "English": "A King bed frame. Materials for crafting beds.",
+        "Turkish": "Büyük boy yatak somyası. Tamamlanmış yatak yapmanın bir parçası."
     },
 
     "GAMEPLAY_DiyBed0KingM": {
-        "English": "z:DIY: King bed mattress"
+        "English": "z:DIY: King bed mattress",
+        "Turkish": "z:DIY: Büyük boy yatak"
     },
     "GAMEPLAY_DiyBed0KingMDescription": {
-        "English": "A King bed mattress. Materials for crafting beds."
+        "English": "A King bed mattress. Materials for crafting beds.",
+        "Turkish": "Büyük boy yatak. Tamamlanmış yatak yapmanın bir parçası"
     },
 
 
     "GAMEPLAY_DiyBed0SmallP": {
-        "English": "z:DIY: Small pillow"
+        "English": "z:DIY: Small pillow",
+        "Turkish": "z:DIY: Küçük Yastık"
     },
     "GAMEPLAY_DiyBed0SmallPDescription": {
-        "English": "A small pillow. Materials for crafting beds."
+        "English": "A small pillow. Materials for crafting beds.",
+        "Turkish": "Küçük bir yastık. Tamamlanmış yatak yapmanın bir parçası."
     },
 
     "GAMEPLAY_DiyBed0SmallF": {
-        "English": "z:DIY: Small bed frame"
+        "English": "z:DIY: Small bed frame",
+        "Turkish": "z:DIY: Küçük boy yatak somyası"
     },
     "GAMEPLAY_DiyBed0SmallFDescription": {
-        "English": "A small bed frame. Materials for crafting beds."
+        "English": "A small bed frame. Materials for crafting beds.",
+        "Turkish": "Küçük boy yatak somyası. Tamamlanmış yatak yapmanın bir parçası"
     },
 
     "GAMEPLAY_DiyBed0SmallM": {
-        "English": "z:DIY: Small bed mattress"
+        "English": "z:DIY: Small bed mattress",
+        "Turkish": "z:DIY: Küçük boy yatak"
     },
     "GAMEPLAY_DiyBed0SmallMDescription": {
-        "English": "A small bed mattress. Materials for crafting beds."
+        "English": "A small bed mattress. Materials for crafting beds.",
+        "Turkish": "Küçük boy yatak. Tamamlanmış yatak yapmanın bir parçası"
     },
 
 
 
     "GAMEPLAY_DiyBed1King": {
-        "English": "z:DIY: King Bed"
+        "English": "z:DIY: King Bed",
+        "Turkish": "z:DIY: Büyük Boy Yatak"
     },
     "GAMEPLAY_DiyBed1KingDescription": {
-        "English": "A King Bed. It can be used to sleep."
+        "English": "A King Bed. It can be used to sleep.",
+        "Turkish": "Büyük Boy Yatak. Uyumak için kullanılabilir."
     },
 
     "GAMEPLAY_DiyBed1Small": {
-        "English": "z:DIY: Small Bed"
+        "English": "z:DIY: Small Bed",
+        "Turkish": "z:DIY: Küçük Boy Yatak"
     },
     "GAMEPLAY_DiyBed1SmallDescription": {
-        "English": "A Small Bed. It can be used to sleep."
+        "English": "A Small Bed. It can be used to sleep.",
+        "Turkish": "Küçük Boy Yatak. Uyumak için kullanılabilir."
     },
 
 
 
 
     "GAMEPLAY_DiyCratesB": {
-        "English": "z:DIY: Crate B"
+        "English": "z:DIY: Crate B",
+        "Turkish": "z:DIY: Kasa"
     },
     "GAMEPLAY_DiyCratesBDescription": {
-        "English": "A small crate."
+        "English": "A small crate.",
+        "Turkish": "Küçük bir kasa."
     },
 
     "GAMEPLAY_DiyRugAs": {
-        "English": "z:DIY: Rug A"
+        "English": "z:DIY: Rug A",
+        "Turkish": "z:DIY: Halı. Düz Çizili"
     },
     "GAMEPLAY_DiyRugAsDescription": {
-        "English": "A small rug."
+        "English": "A small rug.",
+        "Turkish": "Küçük bir halı."
     },
     
     "GAMEPLAY_DiyRugDpaw": {
-        "English": "z:DIY: Rug D"
+        "English": "z:DIY: Rug D",
+        "Turkish": "z:DIY: Halı. Ayı Ayağı Desenli"
     },
     "GAMEPLAY_DiyRugDpawDescription": {
-        "English": "A rug about 1.5 x 2.5 meters. "
+        "English": "A rug about 1.5 x 2.5 meters. ",
+        "Turkish": "1.5 metreye 2.5 metre bir halı."
     },
     
     "GAMEPLAY_DiyRugHb": {
-        "English": "z:DIY: Rug H"
+        "English": "z:DIY: Rug H",
+        "Turkish": "z:DIY: Halı. Kare-Karo Desenli"
     },
     "GAMEPLAY_DiyRugHbDescription": {
-        "English": "A square rug about 2 meters wide. "
+        "English": "A square rug about 2 meters wide. ",
+        "Turkish": "Yaklaşık 2 metre genişliğinde kare bir halı. "
     },
     
     "GAMEPLAY_DiyRugMr": {
-        "English": "z:DIY: Rug M"
+        "English": "z:DIY: Rug M",
+        "Turkish": "z:DIY: Halı. Klasik."
     },
     "GAMEPLAY_DiyRugMrDescription": {
-        "English": "A square rug about 2 meters wide. "
+        "English": "A square rug about 2 meters wide. ",
+        "Turkish": "Yaklaşık 2 metre genişliğinde kare bir halı."
     },
     
     "GAMEPLAY_DiyChusionA": {
-        "English": "z:DIY: Cushion A"
+        "English": "z:DIY: Cushion A",
+        "Turkish": "z:DIY: Mavi Minder"
     },
     "GAMEPLAY_DiyChusionADescription": {
-        "English": "A handmade cushion filled with cat tail head instead of cotton. "
+        "English": "A handmade cushion filled with cat tail head instead of cotton. ",
+        "Turkish": "Pamuk yerine kedi tüyü ile doldurulmuş el yapımı bir minder."
     },
     
     "GAMEPLAY_DiyChusionB": {
-        "English": "z:DIY: Cushion B"
+        "English": "z:DIY: Cushion B",
+        "Turkish": "z:DIY: Mor Minder"
     },
     "GAMEPLAY_DiyChusionBDescription": {
-        "English": "A small handmade cushion filled with cat tail head instead of cotton."
+        "English": "A small handmade cushion filled with cat tail head instead of cotton.",
+        "Turkish": "Pamuk yerine kedi tüyü ile doldurulmuş küçük el yapımı bir minder."
     },
 
     "GAMEPLAY_DiyHookA": {
-        "English": "z:DIY: Wall Hook A"
+        "English": "z:DIY: Wall Hook A",
+        "Turkish": "z:DIY: Duvar Askısı"
     },
     "GAMEPLAY_DiyHookADescription": {
-        "English": "A Wall hook."
+        "English": "A Wall hook.",
+        "Turkish": "Bir duvar askısı"
     },
     
     "GAMEPLAY_DiyGunRackA": {
-        "English": "z:DIY: Gun Rack A"
+        "English": "z:DIY: Gun Rack A",
+        "Turkish": "z:DIY: Silah Rafı"
     },
     "GAMEPLAY_DiyGunRackADescription": {
-        "English": "A Gun Rack. You need nails to make it."
+        "English": "A Gun Rack. You need nails to make it.",
+        "Turkish": "Bir Silah Rafı. Bunu yapmak için birkaç çivi gerekebilir."
     },
 
     "GAMEPLAY_DiyWShelfA": {
-        "English": "z:DIY: Wood Shelf A"
+        "English": "z:DIY: Wood Shelf A",
+        "Turkish": "z:DIY: Ahşap Raf"
     },
     "GAMEPLAY_DiyWShelfADescription": {
-        "English": "A wood shelf 3 levels. You need nails to make it."
+        "English": "A wood shelf 3 levels. You need nails to make it.",
+        "Turkish": "3 bölmeli ahşap raf. Bunu yapmak için birkaç çivi gerekebilir."
     },
     
     "GAMEPLAY_DiyWallShelfA": {
-        "English": "z:DIY: Wall Shelf A"
+        "English": "z:DIY: Wall Shelf A",
+        "Turkish": "z:DIY: Duvar Rafı"
     },
     "GAMEPLAY_DiyWallShelfADescription": {
-        "English": "A wall Shelf. You need nails to make it."
+        "English": "A wall Shelf. You need nails to make it.",
+        "Turkish": "Bir Duvar Rafı. Bunu yapmak için birkaç çivi gerekebilir."
     },
 
     "GAMEPLAY_DiyWChairA": {
-        "English": "z:DIY: Wood Chair A"
+        "English": "z:DIY: Wood Chair A",
+        "Turkish": "z:DIY: Ahşap Sandalye"
     },
     "GAMEPLAY_DiyWChairADescription": {
-        "English": "A wood Chair. You need nails to make it."
+        "English": "A wood Chair. You need nails to make it.",
+        "Turkish": "Bir Ahşap Sandalye. Bunu yapmak için birkaç çivi gerekebilir."
     },
     
     "GAMEPLAY_DiyWChairB": {
-        "English": "z:DIY: Wood Chair B"
+        "English": "z:DIY: Wood Chair B",
+        "Turkish": "z:DIY: Küçük Ahşap Sandalye"
     },
     "GAMEPLAY_DiyWChairBDescription": {
-        "English": "A small wood Chair. You need nails to make it."
+        "English": "A small wood Chair. You need nails to make it.",
+        "Turkish": "Bir küçük ahşap sandalye. Bunu yapmak için birkaç çivi gerekebilir."
     },
 
     "GAMEPLAY_DiyWStoolA": {
-        "English": "z:DIY: Wood Stool A"
+        "English": "z:DIY: Wood Stool A",
+        "Turkish": "z:DIY: Ahşap Tabure"
     },
     "GAMEPLAY_DiyWStoolADescription": {
-        "English": "A wood stool. You need nails to make it."
+        "English": "A wood stool. You need nails to make it.",
+        "Turkish": "Bir ahşap tabure. Bunu yapmak birkaç çivi gerekebilir."
     },
     
     "GAMEPLAY_DiyCofTableA": {
-        "English": "z:DIY: Coffe Table A"
+        "English": "z:DIY: Coffe Table A",
+        "Turkish": "z:DIY: Kahve Masası"
     },
     "GAMEPLAY_DiyCofTableADescription": {
-        "English": "A coffe table. You need nails to make it."
+        "English": "A coffe table. You need nails to make it.",
+        "Turkish": "Bir kahve masası. Bunu yapmak için birkaç çivi gerekebilir."
     },
     
     "GAMEPLAY_DiyDRTableB": {
-        "English": "z:DIY: Dining Room Table B"
+        "English": "z:DIY: Dining Room Table B",
+        "Turkish": "z:DIY: Yemek Masası"
     },
     "GAMEPLAY_DiyDRTableBDescription": {
-        "English": "A Dining Room Table. You need nails to make it."
+        "English": "A Dining Room Table. You need nails to make it.",
+        "Turkish": "Bir yemek masası. Bunu yapmak için birkaç çivi gerekebilir."
     },
 
 
 
     "GAMEPLAY_DiyTwCupA": {
-        "English": "z:DIY: TW Cup A"
+        "English": "z:DIY: TW Cup A",
+        "Turkish": "z:DIY: Yemek Takımı Bardağı"
     },
     "GAMEPLAY_DiyTwCupADescription": {
-        "English": "A Tableware Cup"
+        "English": "A Tableware Cup",
+        "Turkish": "Bir yemek takımı bardağı"
     },
 
     "GAMEPLAY_DiyTwCuttingBoardA": {
-        "English": "z:DIY: TW Cutting Board A"
+        "English": "z:DIY: TW Cutting Board A",
+        "Turkish": "z:DIY: Doğrama Tahtası"
     },
     "GAMEPLAY_DiyTwCuttingBoardADescription": {
-        "English": "A Tableware Cutting Board"
+        "English": "A Tableware Cutting Board",
+        "Turkish": "Bir doğrama tahtası"
     },
 
     "GAMEPLAY_DiyTwDishBL": {
-        "English": "z:DIY: TW Dish BL"
+        "English": "z:DIY: TW Dish BL",
+        "Turkish": "z:DIY: Yemek Takımı Tabağı A"
     },
     "GAMEPLAY_DiyTwDishBLDescription": {
-        "English": "A Tableware Dish"
+        "English": "A Tableware Dish",
+        "Turkish": "Bir yemek takımı tabağı"
     },
 
     "GAMEPLAY_DiyTWDishBO": {
-        "English": "z:DIY: TW Dish BO"
+        "English": "z:DIY: TW Dish BO",
+        "Turkish": "z:DIY: Yemek Takımı Tabağı B"
     },
     "GAMEPLAY_DiyTWDishBODescription": {
-        "English": "A Tableware Dish"
+        "English": "A Tableware Dish",
+        "Turkish": "Bir yemek takımı tabağı"
     },
 
     "GAMEPLAY_DiyTwDishBowlA": {
-        "English": "z:DIY: TW DishBowl A"
+        "English": "z:DIY: TW DishBowl A",
+        "Turkish": "z:DIY: Yemek Takımı Kasesi A"
     },
     "GAMEPLAY_DiyTwDishBowlADescription": {
-        "English": "A Tableware DishBowl"
+        "English": "A Tableware DishBowl",
+        "Turkish": "Bir yemek takımı kasesi"
     },
 
     "GAMEPLAY_DiyTwDishBowlB": {
-       "English": "z:DIY: TW DishBowl B"
+       "English": "z:DIY: TW DishBowl B",
+       "Turkish": "z:DIY: Yemek Takımı Kasesi B"
     },
     "GAMEPLAY_DiyTwDishBowlBDescription": {
-        "English": "A Tableware DishBowl"
+        "English": "A Tableware DishBowl",
+        "Turkish": "Bir yemek takımı kasesi B"
     },
 
     "GAMEPLAY_DiyTwDishPlateA": {
-        "English": "z:DIY: TW DishPlate A"
+        "English": "z:DIY: TW DishPlate A",
+        "Turkish": "z:DIY: Yemek Takımı Yayvan Tabağı"
     },
     "GAMEPLAY_DiyTwDishPlateADescription": {
-        "English": "A Tableware DishPlate"
+        "English": "A Tableware DishPlate",
+        "Turkish": "Bir yemek takımı yayvan tabağı"
     },
 
     "GAMEPLAY_DiyTwFork": {
-        "English": "z:DIY: TW Fork"
+        "English": "z:DIY: TW Fork",
+        "Turkish": "z:DIY: Çatal"
     },
     "GAMEPLAY_DiyTwForkDescription": {
-        "English": "A Tableware Fork"
+        "English": "A Tableware Fork",
+        "Turkish": "Bir Çatal"
     },
 
     "GAMEPLAY_DiyTwSpatulaSpoon": {
-        "English": "z:DIY: TW SpatulaSpoon"
+        "English": "z:DIY: TW SpatulaSpoon",
+        "Turkish": "z:DIY: Spatula Kaşık"
     },
     "GAMEPLAY_DiyTwSpatulaSpoonDescription": {
-        "English": "A Tableware SpatulaSpoon"
+        "English": "A Tableware SpatulaSpoon",
+        "Turkish": "Bir spatula kaşık"
     },
 
     "GAMEPLAY_DiyTwSpoon": {
-        "English": "z:DIY: TW Spoon"
+        "English": "z:DIY: TW Spoon",
+        "Turkish": "z:DIY: Kaşık"
     },
     "GAMEPLAY_DiyTwSpoonDescription": {
-        "English": "A Tableware Spoon"
+        "English": "A Tableware Spoon",
+        "Turkish": "Bir Kaşık"
     }
 
 
